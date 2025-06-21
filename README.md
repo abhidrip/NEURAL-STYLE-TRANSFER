@@ -1,9 +1,17 @@
-
-
-
-
-
 # NEURAL-STYLE-TRANSFER
+
+*COMPANY *: CODTECH IT SOLUTIONS
+
+*NAME *: Abhideep Sahni
+
+$INTERN ID *: CT04DF1288
+
+*DOMAIN *: Artificial Intelligence
+
+*DURATION *: 4 WEEEKS
+
+*MENTOR *: NEELA SANTOSH
+
 This project implements Neural Style Transfer (NST) — an exciting deep learning technique that blends the content of one image with the artistic style of another. 
 In this repository, you’ll find a clean, well-commented PyTorch notebook that demonstrates NST step-by-step:
 
